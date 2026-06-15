@@ -82,12 +82,15 @@ Security & Privacy
 * **Local/Remote Data Isolation:** User login states are securely compartmentalized.
 * **Input Validation:** Strict UI form validation on transaction entry prevents empty fields, invalid decimal structures, or negative values from corrupting your financial records.
 
+below is a link to my google drive where the video is stored.
 
 https://drive.google.com/file/d/1o7FMLk9k3xnNBsr0RZkkQv58S5K0aipu/view?usp=drive_link
 
+below is the link to my github where there is budgetmate apk and this readme file
+
 https://github.com/ST10455977
 
-README.md
+
 
 
 
